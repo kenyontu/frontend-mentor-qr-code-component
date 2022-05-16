@@ -84,10 +84,3 @@ body {
   margin-top: 1em;
   color: hsl(var(--clr-grayish-blue));
 }
-
-.attribution {
-  position: fixed;
-  bottom: 1rem;
-  left: 50%;
-  transform: translateX(-50%);
-}
