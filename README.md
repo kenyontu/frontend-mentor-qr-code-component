@@ -6,9 +6,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 
 ## Overview
 
 ### Screenshot
 
 ![](./screenshot.png)
+
+### Links
+
+- Live Site URL: [https://kenyontu.github.io/frontend-mentor-qr-code-component/](https://kenyontu.github.io/frontend-mentor-qr-code-component/)
