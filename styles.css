@@ -52,14 +52,14 @@ body {
 .qr-code {
   width: 320px;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1rem 1rem 0.99rem 1rem;
   display: flex;
   flex-direction: column;
   text-align: center;
   background: hsl(var(--clr-white));
   border-radius: 20px;
   font-family: var(--ff-outfit);
-  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.07);
+  box-shadow: 0 20px 35px rgba(0, 0, 0, 0.07);
 }
 
 .qr-code .info {
