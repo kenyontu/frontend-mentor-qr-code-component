@@ -5,14 +5,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
-![](./screenshot.png)
+Click to open the full-size screenshot.
+
+| Mobile                                                                              | Desktop                                                                               |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| <a href="./screenshots/mobile.png"><img src="./screenshots/mobile-thumb.png" /></a> | <a href="./screenshots/desktop.png"><img src="./screenshots/desktop-thumb.png" /></a> |
 
 ### Links
 
